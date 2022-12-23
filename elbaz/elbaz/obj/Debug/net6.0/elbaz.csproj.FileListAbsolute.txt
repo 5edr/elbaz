@@ -1,0 +1,15 @@
+C:\khedr\elbaz\elbaz\bin\Debug\net6.0\elbaz.exe
+C:\khedr\elbaz\elbaz\bin\Debug\net6.0\elbaz.deps.json
+C:\khedr\elbaz\elbaz\bin\Debug\net6.0\elbaz.runtimeconfig.json
+C:\khedr\elbaz\elbaz\bin\Debug\net6.0\elbaz.dll
+C:\khedr\elbaz\elbaz\bin\Debug\net6.0\elbaz.pdb
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.csproj.AssemblyReference.cache
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.AssemblyInfoInputs.cache
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.AssemblyInfo.cs
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.csproj.CoreCompileInputs.cache
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.dll
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\refint\elbaz.dll
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.pdb
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\elbaz.genruntimeconfig.cache
+C:\khedr\elbaz\elbaz\obj\Debug\net6.0\ref\elbaz.dll
